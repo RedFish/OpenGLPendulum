@@ -1,0 +1,132 @@
+﻿La génération a démarré 09/04/2014 21:32:10.
+     1>Projet "Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\OpenGL\OpenGL.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\OpenGL.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         Toutes les sorties sont à jour.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\bogy\Documents\Visual Studio 2010\Projects\OpenGL\OpenGL\freeglut_bin" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\OpenGL.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OpenGL.cpp
+         OpenGL.cpp
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(49): warning C4305: '=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(52): warning C4305: '=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(70): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(72): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(72): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(72): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(77): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(77): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(77): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(78): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(89): warning C4244: 'initialisation' : conversion de 'double' en 'const float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(162): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(190): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(191): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(191): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(192): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(192): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(193): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(193): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(194): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(195): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(195): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(198): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(203): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(204): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(204): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(204): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(206): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(206): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(207): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(207): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(207): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(211): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(211): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(212): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(212): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(213): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(213): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(214): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(214): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(240): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(240): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(241): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(241): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(248): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(249): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(251): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(251): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(251): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(253): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(253): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(253): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(254): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(254): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(254): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(255): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(255): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(255): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(256): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(256): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(256): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(257): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(257): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(257): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(258): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(258): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(258): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(260): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(260): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(261): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(261): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(262): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(262): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(263): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(263): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(264): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(264): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(265): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(265): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(266): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(266): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(267): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : voir la déclaration de 'sprintf'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(268): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(268): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(270): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(270): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(272): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(272): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(273): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(273): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(274): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(274): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(275): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(275): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(275): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(276): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(276): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(277): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(277): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(277): warning C4305: 'argument' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(301): warning C4305: '+=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(304): warning C4305: '+=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(307): warning C4305: '+=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(315): warning C4305: '-=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(318): warning C4305: '-=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(321): warning C4305: '-=' : troncation de 'double' à 'float'
+     1>z:\google drive\semester 2\cs426 - computer graphics\week 4 - assignment - opengl\opengl\opengl\opengl.cpp(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : voir la déclaration de 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.exe" /NOLOGO /LIBPATH:"C:\Users\bogy\Documents\Visual Studio 2010\Projects\OpenGL\OpenGL\freeglut_bin" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenGL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.lib" /MACHINE:X86 Debug\OpenGL.obj
+         Debug\stdafx.obj
+         LINK : Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         OpenGL.vcxproj -> Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\Debug\OpenGL.exe;#1" /manifest Debug\OpenGL.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\OpenGL.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\OpenGL.lastbuildstate".
+     1>Génération du projet "Z:\Google Drive\Semester 2\CS426 - Computer Graphics\Week 4 - Assignment - OpenGL\OpenGL\OpenGL\OpenGL.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.39
